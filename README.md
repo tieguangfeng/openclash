@@ -4,6 +4,7 @@ curl -# -o /etc/config/openclash https://raw.githubusercontent.com/tieguangfeng/
 curl -# -o /etc/openclash/custom/openclash_custom_rules.list https://raw.githubusercontent.com/tieguangfeng/openclash/refs/heads/main/custom_rules.list
 curl -# -o /etc/openclash/custom/openclash_custom_firewall_rules.sh https://raw.githubusercontent.com/tieguangfeng/openclash/refs/heads/main/firewall_rules.sh
 curl -# -o /www/iptv.txt https://raw.githubusercontent.com/tieguangfeng/openclash/refs/heads/main/iptv.txt
+curl -# -o /www/macinstall.html https://raw.githubusercontent.com/tieguangfeng/document/refs/heads/main/macinstall.html
 ```
 更新Meta内核
 ```
