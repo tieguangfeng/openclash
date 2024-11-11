@@ -13,5 +13,7 @@ rm -rf /etc/openclash/core/
 mkdir /etc/openclash/core/
 curl -# -o /etc/openclash/core/clash_meta https://raw.githubusercontent.com/tieguangfeng/openclash/refs/heads/main/clash_meta && chmod 755 /etc/openclash/core/clash_meta
 ```
-系统重置  
+系统重置
+```
 rm -rvf /overlay/*  
+```
