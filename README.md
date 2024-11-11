@@ -13,7 +13,5 @@ rm -rf /etc/openclash/core/
 mkdir /etc/openclash/core/
 curl -# -o /etc/openclash/core/clash_meta https://raw.githubusercontent.com/tieguangfeng/openclash/refs/heads/main/clash_meta && chmod 755 /etc/openclash/core/clash_meta
 ```
-定时重启（每周五5点）  
-0 5 * * 5 sleep 70 && touch /etc/banner && reboot  
 系统重置  
 rm -rvf /overlay/*  
