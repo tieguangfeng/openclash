@@ -18,7 +18,7 @@ option en_mode 'fake-ip-mix'
 ===redir-host模式===
 option operation_mode 'redir-host'
 option en_mode 'redir-host-mix'
-##覆写设置-DNS设置
+##覆写设置-DNS设置（fake-ip）
 option fakeip_range '198.18.0.1/16'	##Fake-IP地址范围
 option store_fakeip '1'			##Fake-IP持久化
 option custom_fakeip_filter '1'		##Fake-IP-Filter
