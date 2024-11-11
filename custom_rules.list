@@ -1,11 +1,9 @@
 # DIRECT（直连）
 - DOMAIN,imap-mail.outlook.com,DIRECT
 - DOMAIN,smtp-mail.outlook.com,DIRECT
-- DOMAIN-SUFFIX,gitlab.com,DIRECT
 - DOMAIN-SUFFIX,kyarucloud.moe,DIRECT
 - DOMAIN-SUFFIX,chinadsl.net,DIRECT
 - DOMAIN-SUFFIX,diantige.com,DIRECT
-- DOMAIN-SUFFIX,jd.com,DIRECT
 - DOMAIN-SUFFIX,storage.live.com,DIRECT
 # REJECT（拦截）
 - DOMAIN,www.lebo.cn,REJECT
