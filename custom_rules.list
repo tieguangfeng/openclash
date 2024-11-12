@@ -2,7 +2,9 @@
 - DOMAIN,imap-mail.outlook.com,DIRECT
 - DOMAIN,smtp-mail.outlook.com,DIRECT
 - DOMAIN-SUFFIX,storage.live.com,DIRECT
+- DOMAIN-SUFFIX,api.onedrive.com,DIRECT
 - DOMAIN-SUFFIX,diantige.com,DIRECT
+
 # REJECT（拦截）
 - DOMAIN,www.lebo.cn,REJECT
 - DOMAIN,hpplay.cdn.cibn.cc,REJECT
